@@ -2,8 +2,9 @@
 
 ###
 
-<p align="left">Este es mi primer Challenge llamado: "Amigo Secreto". Aquí el usuario ingresará los nombres de los participantes. Despues la pagina realizará un sorteo en que elegirá al azar el "Amigo Secreto".</p>
-
+<p align="left">Este es mi primer Challenge llamado: "Amigo Secreto".</p>
+<p align="left">Aquí el usuario ingresará los nombres de los participantes.</p>
+<p align="left">Despues la pagina realizará un sorteo en que elegirá al azar el "Amigo Secreto"</p>
 ###
 
 <h2 align="left">Lenguajes de programación utilizados para llevar a cabo este Challenge:</h2>
